@@ -14,11 +14,3 @@ A simple RESTful CRUD API built with **FastAPI** and **NeonDB (PostgreSQL)**. Th
 
 - Python 3.8+
 - pip
-
-## 🔧 Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/fastapi-crud-neondb.git
-cd fastapi-crud-neondb
